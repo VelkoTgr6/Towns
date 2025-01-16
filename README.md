@@ -1,2 +1,3 @@
-# Towns for SoftUni
-Code for the Git and GitHub Exercise
+# Roles
+•	TigerVeliko takes the roles for "Editor" , "Shuffler" and "Styler"
+

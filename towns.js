@@ -10,7 +10,6 @@ function addTown() {
 	$('#result').text(townName + " added.");
 }
 
-
 function deleteTown() {
 	let townName = $('#townName').val();
 	$('#townName').val('');
